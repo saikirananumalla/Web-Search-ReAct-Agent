@@ -34,7 +34,7 @@ This project builds a ReAct agent from scratch to understand how AI agents actua
 ## 🛠️ Setup
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11
 - OpenAI API key
 - Brave Search API key (free tier available)
 
